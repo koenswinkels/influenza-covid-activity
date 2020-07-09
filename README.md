@@ -6,6 +6,12 @@ Starting in December 2019, for each month it shows the level of influenza activi
  
 Because the average time between infection and death is roughly 3 weeks, we can take the number of deaths from the period between the 21st of that month and the 20th of the next month, to estimate the number of fatal infections for a month. For example, for the month of January it shows the number of fatal infections for that month by taking the number of Covid deaths that occurred between January 21 and February 20.
 
+World Map
+https://koenswinkels.github.io/
+
+Brazil Map
+https://koenswinkels.github.io/brazil.html
+
    ---
 
 Koen Swinkels
